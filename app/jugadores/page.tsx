@@ -1,35 +1,31 @@
-import { supabase } from '@/lib/supabase'
-
-import { cookies } from 'next/headers'
+import { cookies } from "next/headers"
+import { createServerComponentClient } from "@supabase/auth-helpers-nextjs"
 
 export default async function JugadoresPage() {
+  // Creamos el cliente de Supabase en el server component
   const supabase = createServerComponentClient({ cookies })
-  const { data: jugadores } = await supabase.from('jugadores').select('*')
+
+  // Consultamos la tabla "jugadores"
+  const { data: jugadores, error } = await supabase.from("jugadores").select("*")
+
+  if (error) {
+    console.error("Error cargando jugadores:", error.message)
+    return <div>Error al cargar los jugadores.</div>
+  }
 
   return (
-    <main className="p-6">
-      <h1 className="text-3xl font-bold text-promiedos-accent mb-4">
-        Jugadores
-      </h1>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-        {jugadores?.map((j) => (
-          <div
+    <div className="p-6">
+      <h1 className="text-2xl font-bold mb-4">Lista de Jugadores</h1>
+      <ul className="space-y-2">
+        {jugadores?.map((j: any) => (
+          <li
             key={j.id}
-            className="bg-promiedos-card rounded p-4 flex flex-col items-center"
+            className="border p-2 rounded-lg shadow-sm hover:bg-gray-100 transition"
           >
-            <img
-              src={j.foto_url || '/placeholder.png'}
-              alt={j.nombre}
-              className="w-20 h-20 rounded-full mb-2 object-cover"
-            />
-            <h2 className="text-xl font-semibold">{j.nombre}</h2>
-            <p className="text-sm">{j.posicion}</p>
-            <p className="text-sm text-promiedos-accent">
-              Valor: €{j.valor_mercado?.toLocaleString()}
-            </p>
-          </div>
+            {j.nombre}
+          </li>
         ))}
-      </div>
-    </main>
+      </ul>
+    </div>
   )
 }
