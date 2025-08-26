@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --promiedos-bg: #0f172a;
+    --promiedos-card: #1e293b;
+    --promiedos-accent: #10b981;
+  }
+}
