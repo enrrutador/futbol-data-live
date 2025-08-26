@@ -1,4 +1,5 @@
-import { createServerComponentClient } from '@supabase/auth-helpers-nextjs'
+import { supabase } from '@/lib/supabase'
+
 import { cookies } from 'next/headers'
 
 export default async function JugadoresPage() {
