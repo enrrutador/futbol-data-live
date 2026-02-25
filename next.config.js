@@ -1,6 +1,15 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-}
+/**
+ * @type { import('next').NextConfig }
+ */
 
-module.exports = nextConfig
+const nextConfig = {
+  output: 'export',
+  distDir: 'dist',
+  basePath: '/futbol-data-live',
+  assetPrefix: '.',
+  images: {{
+    unoptimized: true,
+  },
+};
+
+module.exports = nextConfig;
