@@ -4,11 +4,6 @@ on:
   push:
     branches: [main]
 
-neter:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,19 +13,9 @@ jobs:
         with:
           node-version: 18
           cache: npm
-      - run: npm ci
+      - run: npi ci
       - run: npm run build
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.build-deploy.outputs.page_url }}
-    steps:
-      - uses: actions/deploy-pages@v2
-        with:
-          path: dist
+          name: github-pages
