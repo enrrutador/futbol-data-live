@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 :root {
   --color-primary: #10b981;
@@ -36,3 +37,6 @@
     @apply bg-emerald-900/30 text-emerald-400 px-2 py-0.5 rounded text-xs;
   }
 }
+=======
+:root { --foreground-rgb: 255, 255, 255; } body { color: rgb(var(--foreground-rgb)); }
+>>>>>>> b793163b10f4975ee2bc3680f6a6c744f50910c4

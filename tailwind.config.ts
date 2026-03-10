@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import type { Config } from 'tailwindcss';
 
 const config: Config = {
@@ -18,3 +19,6 @@ const config: Config = {
 };
 
 export default config;
+=======
+export default {content: ['./src/**/*.{js,tsx,jsx}'], theme: {extend: {}}}
+>>>>>>> b793163b10f4975ee2bc3680f6a6c744f50910c4
