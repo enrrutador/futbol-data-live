@@ -1,0 +1,38 @@
+[
+  {
+    "id": "t1",
+    "name": "Real Madrid",
+    "league": "La Liga",
+    "logo": "/logos/real-madrid.png"
+  },
+  {
+    "id": "t2",
+    "name": "Barcelona",
+    "league": "La Liga",
+    "logo": "/logos/barcelona.png"
+  },
+  {
+    "id": "t3",
+    "name": "Manchester City",
+    "league": "Premier League",
+    "logo": "/logos/manchester-city.png"
+  },
+  {
+    "id": "t4",
+    "name": "Liverpool",
+    "league": "Premier League",
+    "logo": "/logos/liverpool.png"
+  },
+  {
+    "id": "t5",
+    "name": "Bayern Munich",
+    "league": "Bundesliga",
+    "logo": "/logos/bayern.png"
+  },
+  {
+    "id": "t6",
+    "name": "Dortmund",
+    "league": "Bundesliga",
+    "logo": "/logos/dortmund.png"
+  }
+]
