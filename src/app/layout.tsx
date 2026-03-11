@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
@@ -32,8 +31,3 @@ export default function RootLayout({
     </html>
   );
 }
-=======
-export default function Layout({ children }: { children: React.ReactNode }) {
-  return <html><body>{children}</body></html>;
-}
->>>>>>> b793163b10f4975ee2bc3680f6a6c744f50910c4
