@@ -1,6 +1,6 @@
-import { createClient } from '@supabase/supabase-js'
+// Sistema de datos local (JSON-based, sin Supabase)
+// Este archivo mantiene compatibilidad con el resto del proyecto
 
-// Mock data para cuando no hay variables (GitHub Pages estático)
 export const mockData = {
   partidos: [
     { id: 1, equipo_local: 'Real Madrid', equipo_visitante: 'Barcelona', goles_local: 2, goles_visitante: 1, liga: 'La Liga', fecha: '2026-03-04' },
@@ -16,28 +16,12 @@ export const mockData = {
   ]
 }
 
-// Verificar si estamos en GitHub Pages (static) o local
-const isStaticBuild = typeof window !== 'undefined' && process.env.NEXT_PUBLIC_BUILD_MODE === 'static'
+// Cliente mock para compatibilidad
+export const supabase = null
 
-// Crear cliente Supabase solo si existen las variables
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || ''
-const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
-
-export const supabase = supabaseUrl && supabaseAnonKey && !isStaticBuild
-  ? createClient(supabaseUrl, supabaseAnonKey)
-  : null
-
-// Función helper para obtener datos (real o mock)
+// Función helper para obtener datos (siempre devuelve mock)
 export async function getData(table: string) {
-  if (supabase) {
-    const { data, error } = await supabase.from(table).select('*')
-    if (error) {
-      console.warn('Error de Supabase, usando datos mock:', error)
-      return mockData[table as keyof typeof mockData] || []
-    }
-    return data
-  }
-  // Devolver datos mock si no hay conexión a Supabase
+  // Devolver datos mock
   return mockData[table as keyof typeof mockData] || []
 }
 
