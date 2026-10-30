@@ -1,5 +1,15 @@
 {
   "version": 1,
   "actualizado": "2026-10-30",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "prueba-cola-001",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1595562031776665/ob7aiz4veo4ex959pmz3xddi/test-video.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1092900570172511/9c1v58hlbtl0yl9pl3itbkt7/test-thumbnail.png",
+      "titulo": "QUEUE TEST - Your Compiler (cola automatica, no listado)",
+      "descripcion": "Prueba del cargador generico con cola. Se borra al verificar.",
+      "tags": ["test"],
+      "privacidad": "unlisted"
+    }
+  ]
 }
