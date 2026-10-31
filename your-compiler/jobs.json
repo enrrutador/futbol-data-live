@@ -1,5 +1,29 @@
 {
   "version": 1,
-  "actualizado": "2026-10-30",
-  "jobs": []
+  "actualizado": "2026-10-31",
+  "jobs": [
+    {
+      "id": "ep002",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1595189431880707/eia7ddvvebqsu6lb39u076sq/ep002_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1856163992504171/8m2ho4vknytjnfi2zxtbkoyb/thumbnail.png",
+      "titulo": "How ChatGPT Actually Works (Explained in 4 Minutes)",
+      "descripcion": "ChatGPT doesn't search a library, doesn't look anything up — so how does it answer you? In 4 minutes: tokens, next-word prediction, training, and why it can sound 100% confident while being completely wrong.\n\n👇 Chapters:\n0:00 The machine behind the curtain\n0:21 It's not a library\n0:47 Tokens: language chopped into pieces\n1:14 Prediction: the one job it does\n1:42 Training: billions of tiny corrections\n2:05 From predictor to assistant\n2:29 Why it hallucinates with confidence\n2:54 Watch it write a haiku, live\n3:21 The honest summary\n\nNew AI explainers every day — subscribe so you don't miss the next one: how AI turns plain words into images, from pure noise.\n\n#AI #ChatGPT #ArtificialIntelligence #TechExplained",
+      "tags": [
+        "how chatgpt works",
+        "chatgpt explained",
+        "how does chatgpt work",
+        "large language models",
+        "llm explained",
+        "tokens",
+        "next token prediction",
+        "ai explained",
+        "artificial intelligence",
+        "machine learning basics",
+        "chatgpt hallucination",
+        "how ai works",
+        "tech explained"
+      ],
+      "privacidad": "public"
+    }
+  ]
 }
