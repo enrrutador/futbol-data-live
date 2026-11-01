@@ -24,6 +24,28 @@
         "tech explained"
       ],
       "privacidad": "public"
+    },
+    {
+      "id": "ep003",
+      "videoUrl": "https://muse.ai/files/1317818514749241/39745614348415303/h6w3nlbel9xga43drb5esvph/ep003_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1137973908589230/q69sk0h1k7d0q5x8efpngk7c/thumbnail.png",
+      "titulo": "How AI Turns Words Into Images (Explained in 4 Minutes)",
+      "descripcion": "You type six words — \"an astronaut riding a horse\" — and seconds later there's a photograph of something that never existed. Where did it come from? In this video, you'll see how AI builds images out of pure noise: how your words become a destination on a map, how the picture is carved out of static step by step, and why it still draws extra fingers.\n\n🎙️ New videos every day: AI tools and how they really work. Subscribe!\n\nCHAPTERS:\n0:00 — A photograph of something that never happened\n0:23 — Your words become a point on a map\n0:48 — It starts from pure noise, not a blank canvas\n1:13 — Denoising: fifty steps from static to picture\n1:41 — How the prompt steers every step\n2:07 — Trained by destruction: learning to undo noise\n2:32 — Why AI images get weird: extra fingers explained\n3:00 — Replay: the astronaut, step by step\n3:31 — Recap: images are excavated, not drawn\n\n#AI #AIArt #ArtificialIntelligence #TechExplained",
+      "tags": [
+        "AI image generation",
+        "how AI generates images",
+        "diffusion models explained",
+        "text to image AI",
+        "how DALL-E works",
+        "how Stable Diffusion works",
+        "AI art explained",
+        "artificial intelligence explained",
+        "denoising diffusion",
+        "AI for beginners",
+        "tech explained",
+        "prompt engineering"
+      ],
+      "privacidad": "public"
     }
   ]
 }
