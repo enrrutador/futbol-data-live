@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-31",
+  "actualizado": "2026-11-01",
   "jobs": [
     {
       "id": "ep002",
@@ -44,6 +44,28 @@
         "AI for beginners",
         "tech explained",
         "prompt engineering"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep004",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1808757116839990/p3chdrvbjpg0splijpgvmcm4/ep004_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1798621938059945/q5jtf12r2dnqxb403mvmn4nr/thumbnail.png",
+      "titulo": "How AI Clones a Voice From 3 Seconds of Audio (Explained in 4 Minutes)",
+      "descripcion": "Three seconds of your voice is all it takes. In this video, you'll learn how AI turns a tiny audio clip into a full vocal clone: your voiceprint, the numbers behind it, and the synthesis that speaks words you never said.\n\nYou'll also see the good uses — giving voices back, dubbing films, helping people who can't speak — and the dark side: scam calls, fake executives, and election deepfakes. Plus three practical ways to protect yourself and your family.\n\nChapters:\n0:03 The 3-Second Hook\n0:23 Your Voiceprint\n0:45 Why 3 Seconds Is Enough\n1:04 From Numbers to Speech\n1:26 Why It Got So Good So Fast\n1:47 The Good Uses\n2:09 The Dark Side\n2:30 How to Protect Yourself\n2:55 The Full Picture\n\nNext video: How YouTube's Algorithm Picks Your Next Video — subscribe so you don't miss it.\n\n#AI #VoiceCloning #ArtificialIntelligence #Deepfake #TechExplained #MachineLearning #AISafety #VoiceAI #Technology #HowItWorks",
+      "tags": [
+        "AI voice cloning",
+        "voice cloning AI",
+        "how AI clones voices",
+        "AI voice synthesis",
+        "deepfake voice",
+        "AI explained",
+        "artificial intelligence",
+        "voiceprint",
+        "text to speech AI",
+        "AI safety",
+        "voice AI technology",
+        "how AI works"
       ],
       "privacidad": "public"
     }
