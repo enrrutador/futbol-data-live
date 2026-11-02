@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-01",
+  "actualizado": "2026-11-02",
   "jobs": [
     {
       "id": "ep002",
@@ -66,6 +66,28 @@
         "AI safety",
         "voice AI technology",
         "how AI works"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep005",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1476264067705173/x1bcqbw849i98u35wq1wlqit/ep005_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1646882693563213/6glgdulbkt8mvz27fjmr4qp8/thumbnail.png",
+      "titulo": "How YouTube's Algorithm Picks Your Next Video (Explained in 4 Minutes)",
+      "descripcion": "You open YouTube for one video — and an hour later you're somewhere you never planned to go. That's not an accident. In this video, you'll learn how YouTube really picks your next video: not one algorithm, but a prediction machine built on click prediction and satisfaction, driven by click-through rate and retention.\n\n🎙️ New videos every week: AI tools and how they really work. Subscribe!\n\nCHAPTERS:\n0:00 — The rabbit hole is not an accident\n0:26 — Not one algorithm, three stages\n0:52 — How candidates are found\n1:17 — Ranking: click prediction plus satisfaction\n1:44 — CTR and retention, the two numbers\n2:11 — Why clickbait fails\n2:38 — The feedback loop that builds your feed\n3:01 — Two videos, opposite fates\n3:29 — Recap and next: self-driving cars\n\n#YouTubeAlgorithm #AI #TechExplained #HowYouTubeWorks\n\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio.",
+      "tags": [
+        "YouTube algorithm",
+        "how YouTube algorithm works",
+        "YouTube recommendations explained",
+        "click-through rate",
+        "audience retention",
+        "how YouTube picks videos",
+        "AI recommendations",
+        "YouTube CTR",
+        "tech explained",
+        "AI explained simply",
+        "YouTube for beginners",
+        "recommendation system"
       ],
       "privacidad": "public"
     }
