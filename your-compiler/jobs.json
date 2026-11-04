@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-03",
   "jobs": [
     {
       "id": "ep002",
@@ -88,6 +88,28 @@
         "AI explained simply",
         "YouTube for beginners",
         "recommendation system"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep012",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1000166705760837/nk07bolnuzurbpukloke5zyr/ep012_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1958012755175040/u7evtuaeen8nfe2nx105jdoj/thumbnail.png",
+      "titulo": "Qué pasa si no activas el modo avión (Explicado en 4 minutos)",
+      "descripcion": "La azafata lo repite en cada vuelo: activen el modo avión. Pero ¿es verdad que un teléfono puede interferir con un avión moderno? En este video vas a ver qué pasa de verdad si nadie lo activa: qué apaga ese botón, la interferencia real del famoso tac-tac-tac, por qué el problema nunca fue un teléfono sino doscientos a máxima potencia, la red de tierra que el avión sobrevuela, y cómo la wifi a bordo funciona sin romper la regla.\n\n🎙️ Videos nuevos cada semana: tecnología explicada en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El aviso de siempre\n0:28 — Qué apaga el modo avión\n0:53 — Por qué se pide: precaución\n1:19 — El famoso tac-tac-tac\n1:45 — Doscientos teléfonos a la vez\n2:12 — La otra víctima: la red de tierra\n2:36 — La wifi a bordo: la picocelda\n3:04 — Si te olvidas uno prendido\n3:29 — Cierre y lo que viene\n\n#ModoAvion #Tecnologia #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep012.md).",
+      "tags": [
+        "qué pasa si no activas el modo avión",
+        "modo avión",
+        "modo avión en el celular",
+        "por qué hay que poner modo avión",
+        "interferencia teléfono avión",
+        "wifi en el avión",
+        "picocelda",
+        "modo avión explicado",
+        "tecnología explicada",
+        "cómo funciona",
+        "mitos de los aviones",
+        "batería del celular en vuelo"
       ],
       "privacidad": "public"
     }
