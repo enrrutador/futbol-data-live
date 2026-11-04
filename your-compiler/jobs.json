@@ -1,117 +1,139 @@
 {
-  "version": 1,
-  "actualizado": "2026-11-03",
-  "jobs": [
-    {
-      "id": "ep002",
-      "videoUrl": "https://muse.ai/files/1317818514749241/1595189431880707/eia7ddvvebqsu6lb39u076sq/ep002_web.mp4",
-      "thumbUrl": "https://muse.ai/files/1317818514749241/1856163992504171/8m2ho4vknytjnfi2zxtbkoyb/thumbnail.png",
-      "titulo": "How ChatGPT Actually Works (Explained in 4 Minutes)",
-      "descripcion": "ChatGPT doesn't search a library, doesn't look anything up — so how does it answer you? In 4 minutes: tokens, next-word prediction, training, and why it can sound 100% confident while being completely wrong.\n\n👇 Chapters:\n0:00 The machine behind the curtain\n0:21 It's not a library\n0:47 Tokens: language chopped into pieces\n1:14 Prediction: the one job it does\n1:42 Training: billions of tiny corrections\n2:05 From predictor to assistant\n2:29 Why it hallucinates with confidence\n2:54 Watch it write a haiku, live\n3:21 The honest summary\n\nNew AI explainers every day — subscribe so you don't miss the next one: how AI turns plain words into images, from pure noise.\n\n#AI #ChatGPT #ArtificialIntelligence #TechExplained",
-      "tags": [
-        "how chatgpt works",
-        "chatgpt explained",
-        "how does chatgpt work",
-        "large language models",
-        "llm explained",
-        "tokens",
-        "next token prediction",
-        "ai explained",
-        "artificial intelligence",
-        "machine learning basics",
-        "chatgpt hallucination",
-        "how ai works",
-        "tech explained"
-      ],
-      "privacidad": "public"
-    },
-    {
-      "id": "ep003",
-      "videoUrl": "https://muse.ai/files/1317818514749241/39745614348415303/h6w3nlbel9xga43drb5esvph/ep003_web.mp4",
-      "thumbUrl": "https://muse.ai/files/1317818514749241/1137973908589230/q69sk0h1k7d0q5x8efpngk7c/thumbnail.png",
-      "titulo": "How AI Turns Words Into Images (Explained in 4 Minutes)",
-      "descripcion": "You type six words — \"an astronaut riding a horse\" — and seconds later there's a photograph of something that never existed. Where did it come from? In this video, you'll see how AI builds images out of pure noise: how your words become a destination on a map, how the picture is carved out of static step by step, and why it still draws extra fingers.\n\n🎙️ New videos every day: AI tools and how they really work. Subscribe!\n\nCHAPTERS:\n0:00 — A photograph of something that never happened\n0:23 — Your words become a point on a map\n0:48 — It starts from pure noise, not a blank canvas\n1:13 — Denoising: fifty steps from static to picture\n1:41 — How the prompt steers every step\n2:07 — Trained by destruction: learning to undo noise\n2:32 — Why AI images get weird: extra fingers explained\n3:00 — Replay: the astronaut, step by step\n3:31 — Recap: images are excavated, not drawn\n\n#AI #AIArt #ArtificialIntelligence #TechExplained",
-      "tags": [
-        "AI image generation",
-        "how AI generates images",
-        "diffusion models explained",
-        "text to image AI",
-        "how DALL-E works",
-        "how Stable Diffusion works",
-        "AI art explained",
-        "artificial intelligence explained",
-        "denoising diffusion",
-        "AI for beginners",
-        "tech explained",
-        "prompt engineering"
-      ],
-      "privacidad": "public"
-    },
-    {
-      "id": "ep004",
-      "videoUrl": "https://muse.ai/files/1317818514749241/1808757116839990/p3chdrvbjpg0splijpgvmcm4/ep004_web.mp4",
-      "thumbUrl": "https://muse.ai/files/1317818514749241/1798621938059945/q5jtf12r2dnqxb403mvmn4nr/thumbnail.png",
-      "titulo": "How AI Clones a Voice From 3 Seconds of Audio (Explained in 4 Minutes)",
-      "descripcion": "Three seconds of your voice is all it takes. In this video, you'll learn how AI turns a tiny audio clip into a full vocal clone: your voiceprint, the numbers behind it, and the synthesis that speaks words you never said.\n\nYou'll also see the good uses — giving voices back, dubbing films, helping people who can't speak — and the dark side: scam calls, fake executives, and election deepfakes. Plus three practical ways to protect yourself and your family.\n\nChapters:\n0:03 The 3-Second Hook\n0:23 Your Voiceprint\n0:45 Why 3 Seconds Is Enough\n1:04 From Numbers to Speech\n1:26 Why It Got So Good So Fast\n1:47 The Good Uses\n2:09 The Dark Side\n2:30 How to Protect Yourself\n2:55 The Full Picture\n\nNext video: How YouTube's Algorithm Picks Your Next Video — subscribe so you don't miss it.\n\n#AI #VoiceCloning #ArtificialIntelligence #Deepfake #TechExplained #MachineLearning #AISafety #VoiceAI #Technology #HowItWorks",
-      "tags": [
-        "AI voice cloning",
-        "voice cloning AI",
-        "how AI clones voices",
-        "AI voice synthesis",
-        "deepfake voice",
-        "AI explained",
-        "artificial intelligence",
-        "voiceprint",
-        "text to speech AI",
-        "AI safety",
-        "voice AI technology",
-        "how AI works"
-      ],
-      "privacidad": "public"
-    },
-    {
-      "id": "ep005",
-      "videoUrl": "https://muse.ai/files/1317818514749241/1476264067705173/x1bcqbw849i98u35wq1wlqit/ep005_web.mp4",
-      "thumbUrl": "https://muse.ai/files/1317818514749241/1646882693563213/6glgdulbkt8mvz27fjmr4qp8/thumbnail.png",
-      "titulo": "How YouTube's Algorithm Picks Your Next Video (Explained in 4 Minutes)",
-      "descripcion": "You open YouTube for one video — and an hour later you're somewhere you never planned to go. That's not an accident. In this video, you'll learn how YouTube really picks your next video: not one algorithm, but a prediction machine built on click prediction and satisfaction, driven by click-through rate and retention.\n\n🎙️ New videos every week: AI tools and how they really work. Subscribe!\n\nCHAPTERS:\n0:00 — The rabbit hole is not an accident\n0:26 — Not one algorithm, three stages\n0:52 — How candidates are found\n1:17 — Ranking: click prediction plus satisfaction\n1:44 — CTR and retention, the two numbers\n2:11 — Why clickbait fails\n2:38 — The feedback loop that builds your feed\n3:01 — Two videos, opposite fates\n3:29 — Recap and next: self-driving cars\n\n#YouTubeAlgorithm #AI #TechExplained #HowYouTubeWorks\n\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio.",
-      "tags": [
-        "YouTube algorithm",
-        "how YouTube algorithm works",
-        "YouTube recommendations explained",
-        "click-through rate",
-        "audience retention",
-        "how YouTube picks videos",
-        "AI recommendations",
-        "YouTube CTR",
-        "tech explained",
-        "AI explained simply",
-        "YouTube for beginners",
-        "recommendation system"
-      ],
-      "privacidad": "public"
-    },
-    {
-      "id": "ep012",
-      "videoUrl": "https://muse.ai/files/1317818514749241/1000166705760837/nk07bolnuzurbpukloke5zyr/ep012_web.mp4",
-      "thumbUrl": "https://muse.ai/files/1317818514749241/1958012755175040/u7evtuaeen8nfe2nx105jdoj/thumbnail.png",
-      "titulo": "Qué pasa si no activas el modo avión (Explicado en 4 minutos)",
-      "descripcion": "La azafata lo repite en cada vuelo: activen el modo avión. Pero ¿es verdad que un teléfono puede interferir con un avión moderno? En este video vas a ver qué pasa de verdad si nadie lo activa: qué apaga ese botón, la interferencia real del famoso tac-tac-tac, por qué el problema nunca fue un teléfono sino doscientos a máxima potencia, la red de tierra que el avión sobrevuela, y cómo la wifi a bordo funciona sin romper la regla.\n\n🎙️ Videos nuevos cada semana: tecnología explicada en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El aviso de siempre\n0:28 — Qué apaga el modo avión\n0:53 — Por qué se pide: precaución\n1:19 — El famoso tac-tac-tac\n1:45 — Doscientos teléfonos a la vez\n2:12 — La otra víctima: la red de tierra\n2:36 — La wifi a bordo: la picocelda\n3:04 — Si te olvidas uno prendido\n3:29 — Cierre y lo que viene\n\n#ModoAvion #Tecnologia #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep012.md).",
-      "tags": [
-        "qué pasa si no activas el modo avión",
-        "modo avión",
-        "modo avión en el celular",
-        "por qué hay que poner modo avión",
-        "interferencia teléfono avión",
-        "wifi en el avión",
-        "picocelda",
-        "modo avión explicado",
-        "tecnología explicada",
-        "cómo funciona",
-        "mitos de los aviones",
-        "batería del celular en vuelo"
-      ],
-      "privacidad": "public"
-    }
-  ]
+ "version": 1,
+ "actualizado": "2026-11-04",
+ "jobs": [
+  {
+   "id": "ep002",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1595189431880707/eia7ddvvebqsu6lb39u076sq/ep002_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1856163992504171/8m2ho4vknytjnfi2zxtbkoyb/thumbnail.png",
+   "titulo": "How ChatGPT Actually Works (Explained in 4 Minutes)",
+   "descripcion": "ChatGPT doesn't search a library, doesn't look anything up — so how does it answer you? In 4 minutes: tokens, next-word prediction, training, and why it can sound 100% confident while being completely wrong.\n\n👇 Chapters:\n0:00 The machine behind the curtain\n0:21 It's not a library\n0:47 Tokens: language chopped into pieces\n1:14 Prediction: the one job it does\n1:42 Training: billions of tiny corrections\n2:05 From predictor to assistant\n2:29 Why it hallucinates with confidence\n2:54 Watch it write a haiku, live\n3:21 The honest summary\n\nNew AI explainers every day — subscribe so you don't miss the next one: how AI turns plain words into images, from pure noise.\n\n#AI #ChatGPT #ArtificialIntelligence #TechExplained",
+   "tags": [
+    "how chatgpt works",
+    "chatgpt explained",
+    "how does chatgpt work",
+    "large language models",
+    "llm explained",
+    "tokens",
+    "next token prediction",
+    "ai explained",
+    "artificial intelligence",
+    "machine learning basics",
+    "chatgpt hallucination",
+    "how ai works",
+    "tech explained"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep003",
+   "videoUrl": "https://muse.ai/files/1317818514749241/39745614348415303/h6w3nlbel9xga43drb5esvph/ep003_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1137973908589230/q69sk0h1k7d0q5x8efpngk7c/thumbnail.png",
+   "titulo": "How AI Turns Words Into Images (Explained in 4 Minutes)",
+   "descripcion": "You type six words — \"an astronaut riding a horse\" — and seconds later there's a photograph of something that never existed. Where did it come from? In this video, you'll see how AI builds images out of pure noise: how your words become a destination on a map, how the picture is carved out of static step by step, and why it still draws extra fingers.\n\n🎙️ New videos every day: AI tools and how they really work. Subscribe!\n\nCHAPTERS:\n0:00 — A photograph of something that never happened\n0:23 — Your words become a point on a map\n0:48 — It starts from pure noise, not a blank canvas\n1:13 — Denoising: fifty steps from static to picture\n1:41 — How the prompt steers every step\n2:07 — Trained by destruction: learning to undo noise\n2:32 — Why AI images get weird: extra fingers explained\n3:00 — Replay: the astronaut, step by step\n3:31 — Recap: images are excavated, not drawn\n\n#AI #AIArt #ArtificialIntelligence #TechExplained",
+   "tags": [
+    "AI image generation",
+    "how AI generates images",
+    "diffusion models explained",
+    "text to image AI",
+    "how DALL-E works",
+    "how Stable Diffusion works",
+    "AI art explained",
+    "artificial intelligence explained",
+    "denoising diffusion",
+    "AI for beginners",
+    "tech explained",
+    "prompt engineering"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep004",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1808757116839990/p3chdrvbjpg0splijpgvmcm4/ep004_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1798621938059945/q5jtf12r2dnqxb403mvmn4nr/thumbnail.png",
+   "titulo": "How AI Clones a Voice From 3 Seconds of Audio (Explained in 4 Minutes)",
+   "descripcion": "Three seconds of your voice is all it takes. In this video, you'll learn how AI turns a tiny audio clip into a full vocal clone: your voiceprint, the numbers behind it, and the synthesis that speaks words you never said.\n\nYou'll also see the good uses — giving voices back, dubbing films, helping people who can't speak — and the dark side: scam calls, fake executives, and election deepfakes. Plus three practical ways to protect yourself and your family.\n\nChapters:\n0:03 The 3-Second Hook\n0:23 Your Voiceprint\n0:45 Why 3 Seconds Is Enough\n1:04 From Numbers to Speech\n1:26 Why It Got So Good So Fast\n1:47 The Good Uses\n2:09 The Dark Side\n2:30 How to Protect Yourself\n2:55 The Full Picture\n\nNext video: How YouTube's Algorithm Picks Your Next Video — subscribe so you don't miss it.\n\n#AI #VoiceCloning #ArtificialIntelligence #Deepfake #TechExplained #MachineLearning #AISafety #VoiceAI #Technology #HowItWorks",
+   "tags": [
+    "AI voice cloning",
+    "voice cloning AI",
+    "how AI clones voices",
+    "AI voice synthesis",
+    "deepfake voice",
+    "AI explained",
+    "artificial intelligence",
+    "voiceprint",
+    "text to speech AI",
+    "AI safety",
+    "voice AI technology",
+    "how AI works"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep005",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1476264067705173/x1bcqbw849i98u35wq1wlqit/ep005_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1646882693563213/6glgdulbkt8mvz27fjmr4qp8/thumbnail.png",
+   "titulo": "How YouTube's Algorithm Picks Your Next Video (Explained in 4 Minutes)",
+   "descripcion": "You open YouTube for one video — and an hour later you're somewhere you never planned to go. That's not an accident. In this video, you'll learn how YouTube really picks your next video: not one algorithm, but a prediction machine built on click prediction and satisfaction, driven by click-through rate and retention.\n\n🎙️ New videos every week: AI tools and how they really work. Subscribe!\n\nCHAPTERS:\n0:00 — The rabbit hole is not an accident\n0:26 — Not one algorithm, three stages\n0:52 — How candidates are found\n1:17 — Ranking: click prediction plus satisfaction\n1:44 — CTR and retention, the two numbers\n2:11 — Why clickbait fails\n2:38 — The feedback loop that builds your feed\n3:01 — Two videos, opposite fates\n3:29 — Recap and next: self-driving cars\n\n#YouTubeAlgorithm #AI #TechExplained #HowYouTubeWorks\n\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio.",
+   "tags": [
+    "YouTube algorithm",
+    "how YouTube algorithm works",
+    "YouTube recommendations explained",
+    "click-through rate",
+    "audience retention",
+    "how YouTube picks videos",
+    "AI recommendations",
+    "YouTube CTR",
+    "tech explained",
+    "AI explained simply",
+    "YouTube for beginners",
+    "recommendation system"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep012",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1000166705760837/nk07bolnuzurbpukloke5zyr/ep012_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1958012755175040/u7evtuaeen8nfe2nx105jdoj/thumbnail.png",
+   "titulo": "Qué pasa si no activas el modo avión (Explicado en 4 minutos)",
+   "descripcion": "La azafata lo repite en cada vuelo: activen el modo avión. Pero ¿es verdad que un teléfono puede interferir con un avión moderno? En este video vas a ver qué pasa de verdad si nadie lo activa: qué apaga ese botón, la interferencia real del famoso tac-tac-tac, por qué el problema nunca fue un teléfono sino doscientos a máxima potencia, la red de tierra que el avión sobrevuela, y cómo la wifi a bordo funciona sin romper la regla.\n\n🎙️ Videos nuevos cada semana: tecnología explicada en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El aviso de siempre\n0:28 — Qué apaga el modo avión\n0:53 — Por qué se pide: precaución\n1:19 — El famoso tac-tac-tac\n1:45 — Doscientos teléfonos a la vez\n2:12 — La otra víctima: la red de tierra\n2:36 — La wifi a bordo: la picocelda\n3:04 — Si te olvidas uno prendido\n3:29 — Cierre y lo que viene\n\n#ModoAvion #Tecnologia #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep012.md).",
+   "tags": [
+    "qué pasa si no activas el modo avión",
+    "modo avión",
+    "modo avión en el celular",
+    "por qué hay que poner modo avión",
+    "interferencia teléfono avión",
+    "wifi en el avión",
+    "picocelda",
+    "modo avión explicado",
+    "tecnología explicada",
+    "cómo funciona",
+    "mitos de los aviones",
+    "batería del celular en vuelo"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep009",
+   "videoUrl": "https://muse.ai/files/1317818514749241/4541446696106176/z3j27u1o09v3ou6gs2zbegvz/ep009_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1498795058840799/0v1f3bc0xvfaoyo0p70p6d0h/thumbnail.png",
+   "titulo": "Cómo se hacen los deepfakes (y cómo descubrirlos) (Explicado en 4 minutos)",
+   "descripcion": "Un famoso dice algo escandaloso en un video… y nunca lo dijo. En este video vas a ver paso a paso cómo se fabrica un deepfake: las dos pilas de material con las que empieza todo, el mapa de la cara convertido en números, el duelo entre el falsificador y el crítico, el intercambio cuadro a cuadro, la voz clonada, las señales que delatan a un falso y los detectores automáticos.\n\n🎙️ Videos nuevos cada semana: tecnología explicada en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El video que nunca existió\n0:22 — Los ingredientes: dos pilas de material\n0:45 — El mapa de la cara\n1:08 — El falsificador contra el crítico\n1:35 — El intercambio cuadro a cuadro\n1:58 — La voz también se clona\n2:18 — Las señales delatoras\n2:39 — La detección automática\n3:02 — Cierre y lo que viene: el GPS\n\n#Deepfakes #Tecnologia #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Mixkit (créditos completos en CREDITOS-ep009.md); 4 tomas son visuales creadas a medida.",
+   "tags": [
+    "deepfakes",
+    "cómo se hacen los deepfakes",
+    "cómo detectar un deepfake",
+    "intercambio de caras",
+    "GAN",
+    "voz clonada",
+    "detección de deepfakes",
+    "tecnología explicada",
+    "cómo funciona",
+    "inteligencia artificial",
+    "videos falsos",
+    "seguridad en internet"
+   ],
+   "privacidad": "public"
+  }
+ ]
 }
