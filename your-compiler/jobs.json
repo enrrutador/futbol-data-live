@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-04",
+ "actualizado": "2026-11-05",
  "jobs": [
   {
    "id": "ep002",
@@ -132,6 +132,28 @@
     "inteligencia artificial",
     "videos falsos",
     "seguridad en internet"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep010",
+   "videoUrl": "https://muse.ai/files/1317818514749241/2982043645469631/jg6wyuc0m71gf8ktlonnau4w/ep010_web.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1156566470053621/idivlrayosujycv4jfyxp5t8/thumbnail.png",
+   "titulo": "Cómo el GPS sabe dónde estás (Explicado en 4 minutos)",
+   "descripcion": "Tu teléfono sabe dónde estás, ahora mismo, con un error de pocos metros. No es magia ni son las antenas: escucha relojes atómicos que orbitan la Tierra. En este video vas a ver cómo funciona el GPS de verdad: la trilateración, el cuarto satélite que corrige el reloj barato de tu teléfono, la corrección de Einstein sin la cual tu posición se desviaría diez kilómetros por día, y por qué el punto azul a veces salta de calle en el centro.\n\n🎙️ Videos nuevos cada semana: IA y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El misterio del punto azul\n0:22 — La constelación\n0:42 — La carrera de las señales\n1:07 — Trilateración\n1:33 — El cuarto satélite\n1:57 — Einstein en tu bolsillo\n2:21 — Por qué metros y no milímetros\n2:51 — Más allá de la navegación\n3:16 — Cierre y lo que viene: el microondas\n\n#GPS #Tecnologia #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep010.md). REMAKE 2026-11-03 con el estándar visual nuevo; el cierre anticipa el ep013.",
+   "tags": [
+    "cómo funciona el gps",
+    "gps explicado",
+    "qué es el gps",
+    "trilateración gps",
+    "satélites gps",
+    "cómo sabe mi celular dónde estoy",
+    "geolocalización explicada",
+    "gps y relatividad",
+    "reloj atómico",
+    "tecnología explicada",
+    "cómo funciona",
+    "punto azul gps"
    ],
    "privacidad": "public"
   }
