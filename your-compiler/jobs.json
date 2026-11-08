@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-07",
  "jobs": [
   {
    "id": "ep002",
@@ -154,6 +154,28 @@
     "tecnología explicada",
     "cómo funciona",
     "punto azul gps"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep013",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1522055033099011/tnsc05mdtyp0v20d48jzgkhj/ep013_web_v2.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/2008426993185239/kwyr48i2elk246v5tzzlil76/thumbnail.png",
+   "titulo": "Cómo el microondas calienta la comida y no el plato (Explicado en 4 minutos)",
+   "descripcion": "Ponés un plato en el microondas y en dos minutos la comida está caliente, pero el plato sale frío. ¿Cómo hace este aparato para calentar justo la comida y no lo que la sostiene? En este video vas a ver qué es el magnetrón, por qué el agua es la única protagonista, por qué el plato queda frío, de dónde salen los puntos fríos, por qué el metal salta chispas, por qué nada sale dorado y si las ondas quedan en la comida.\n\n🎙️ Videos nuevos cada semana: tecnología explicada en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El plato sale frío\n0:22 — Qué hay adentro: el magnetrón\n0:48 — El agua baila\n1:14 — Por qué el plato queda frío\n1:37 — Puntos fríos y plato giratorio\n2:01 — Por qué no va metal\n2:24 — Por qué nada sale dorado\n2:47 — ¿Las ondas quedan en la comida?\n3:10 — Cierre y lo que viene\n\n#Microondas #ComoFunciona #Tecnologia #Explicado\n\n---\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep013.md).",
+   "tags": [
+    "microondas",
+    "cómo funciona el microondas",
+    "por qué el microondas no calienta el plato",
+    "magnetrón",
+    "ondas microondas",
+    "puntos fríos microondas",
+    "por qué no se puede meter metal al microondas",
+    "microondas explicado",
+    "tecnología explicada",
+    "cómo funciona",
+    "ciencia en la cocina",
+    "agua y microondas"
    ],
    "privacidad": "public"
   }
