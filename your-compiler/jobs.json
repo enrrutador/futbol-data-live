@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-07",
+ "actualizado": "2026-11-09",
  "jobs": [
   {
    "id": "ep002",
@@ -176,6 +176,28 @@
     "cómo funciona",
     "ciencia en la cocina",
     "agua y microondas"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep014",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1490739036243252/j9af3rwrqm45nwd5yhe1bse2/ep014_web_v2.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1866115011387379/j9ot2qy7u4akg6jgahg3aaeb/thumbnail.png",
+   "titulo": "Por qué bostezar se contagia (Explicado en 4 minutos)",
+   "descripcion": "En algún momento de este video vas a bostezar. No porque tengas sueño, sino porque bostezar se contagia: basta con ver a alguien bostezar, escucharlo o incluso pensar en ello. En este video vas a ver qué es un bostezo, por qué tu cerebro lo imita sin pedirte permiso gracias a las neuronas espejo, por qué se contagia más entre personas cercanas, por qué también se contagia entre especies como los perros, por qué el mito del oxígeno no se sostiene, y para qué sirve de verdad: enfriar el cerebro.\n\n🎙️ Videos nuevos cada semana: tecnología y ciencia explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 — El gancho: ya bostezaste\n0:22 — Qué es un bostezo\n0:44 — El contagio en acción\n1:06 — Neuronas espejo\n1:31 — Empatía: quién se contagia más\n1:54 — También entre especies\n2:17 — El mito del oxígeno\n2:39 — Para qué sirve entonces\n3:06 — Cierre y lo que viene\n\n#Bostezo #Bostezar #NeuronasEspejo #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video. Voz generada por IA (TTS) — contenido original, guion propio. Visuales creadas a medida para cada beat (créditos completos en CREDITOS-ep014.md).",
+   "tags": [
+    "por qué bostezar se contagia",
+    "bostezo contagioso",
+    "por qué se contagia el bostezo",
+    "neuronas espejo",
+    "empatía y bostezo",
+    "perros bostezan",
+    "mito del oxígeno",
+    "para qué sirve bostezar",
+    "cerebro y bostezo",
+    "ciencia explicada",
+    "cómo funciona",
+    "curiosidades del cuerpo humano"
    ],
    "privacidad": "public"
   }
