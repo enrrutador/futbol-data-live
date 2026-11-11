@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-09",
+ "actualizado": "2026-11-10",
  "jobs": [
   {
    "id": "ep002",
@@ -218,6 +218,29 @@
     "texto al revés espejo",
     "espejo en el piso",
     "espejo doble",
+    "tecnología explicada",
+    "cómo funciona"
+   ],
+   "privacidad": "public"
+  },
+  {
+   "id": "ep016",
+   "videoUrl": "https://muse.ai/files/1317818514749241/1152187244416666/xuo8ip8y8r1ji325qcncezo0/ep016_web_v2.mp4",
+   "thumbUrl": "https://muse.ai/files/1317818514749241/1790665912188706/m23ju0c5w35ppse2o4l5ofqw/thumbnail.png",
+   "titulo": "Qué significa de verdad el número del protector solar (Explicado en 4 minutos)",
+   "descripcion": "Treinta, cincuenta, cien. Elegís el número más alto pensando que protege el doble, o que dura el doble de horas. Pero ese número no significa ninguna de las dos cosas. En este video vas a ver qué mide de verdad el número del protector solar: la protección contra los rayos UVB, por qué del treinta al cien casi no hay diferencia, por qué no son horas de protección, la diferencia entre UVA y UVB, la cantidad correcta con la regla de los dos dedos, cada cuánto reaplicar y los lugares que casi todos olvidan.\n\n🎙️ Videos nuevos cada semana: tecnología explicada en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:03 — El número que todos miran\n0:29 — Qué mide el número\n0:51 — Treinta, cincuenta, cien: casi lo mismo\n1:12 — No son horas\n1:33 — UVA contra UVB\n1:54 — La cantidad correcta\n2:15 — Reaplicar cada dos horas\n2:34 — Los lugares que todos olvidan\n2:56 — Cierre y lo que viene\n\n#ProtectorSolar #FPS #Explicado #ComoFunciona\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep016.md); el resto son visuales creadas a medida para cada beat.",
+   "tags": [
+    "qué significa el fps",
+    "número del protector solar",
+    "fps 30 50 100",
+    "protector solar explicado",
+    "fps qué significa",
+    "uvb vs uva",
+    "amplio espectro",
+    "regla de los dos dedos",
+    "cada cuánto reaplicar protector",
+    "errores con el protector solar",
+    "días nublados uv",
     "tecnología explicada",
     "cómo funciona"
    ],
