@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "jobs": [
     {
       "id": "ep002",
@@ -243,6 +243,28 @@
         "días nublados uv",
         "tecnología explicada",
         "cómo funciona"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep017",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1354125883376969/9hj13ljnm6d6g37f67mcmgz9/ep017_web_v2.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1498138768845579/dk8uf70d3xv4q2szb5m5zlzf/thumbnail.png",
+      "titulo": "Por qué el mar es salado y los ríos no (Explicado en 4 minutos)",
+      "descripcion": "Probá un sorbo de agua de mar: es salada, muy salada. Pero el río que desemboca justo ahí, a pocos metros, es dulce. ¿Cómo puede ser? En este video vas a ver de dónde sale toda esa sal: la lluvia que disuelve las rocas, los ríos que la llevan al mar, el sol que evapora el agua y deja la sal atrás, por qué los ríos no son salados, cuánta sal hay en el mar, por qué el Mar Muerto es el caso extremo y por qué el mar no se vuelve infinitamente salado.\n\n🎙️ Videos nuevos cada semana: tecnología y ciencia explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:03 — El gancho: el mar es salado, el río es dulce\n0:25 — La sal viene de las rocas\n0:48 — El mar acumula\n1:10 — El ciclo del agua\n1:31 — Por qué los ríos no son salados\n1:55 — Las cifras: 35 gramos por litro\n2:19 — El Mar Muerto\n2:42 — Por qué no se vuelve infinitamente salado\n3:06 — Cierre y lo que viene: el pelo gris\n\n#MarSalado #Explicado #ComoFunciona #Ciencia\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep017.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "por qué el mar es salado",
+        "mar salado explicado",
+        "por qué los ríos no son salados",
+        "salinidad del mar",
+        "ciclo del agua",
+        "mar muerto",
+        "por qué el mar muerto es tan salado",
+        "evaporación del mar",
+        "sal de las rocas",
+        "ciencia explicada",
+        "cómo funciona",
+        "curiosidades del mar"
       ],
       "privacidad": "public"
     }
