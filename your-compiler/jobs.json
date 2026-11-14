@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "jobs": [
     {
       "id": "ep002",
@@ -331,6 +331,28 @@
         "ciencia explicada",
         "cómo funciona la memoria",
         "psicología infantil"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep023",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1498814325723481/6e2k2mx7lgrr6t16lv04b9ii/ep023_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/3475122996003112/0rx3zy1bdyw5vm8g558wqkfu/thumbnail.png",
+      "titulo": "¿Por qué olvidas tus sueños a los 5 minutos de despertar?",
+      "descripcion": "Cada noche soñás cuatro, cinco o seis veces… y a los cinco minutos de despertar no queda nada. ¿Por qué tu cerebro produce sueños que después no guarda?\n\nEn este video —el tercero de la serie SUEÑOS Y CEREBRO— vas a ver por qué olvidás casi todos tus sueños al despertar: el hipocampo está ocupado archivando el día y no registra el sueño, en la fase REM faltan las sustancias químicas que fijan un recuerdo, la ventana de cinco minutos en la que el sueño todavía se puede rescatar, por qué el despertar brusco lo borra y el gradual lo deja agarrar, qué hace que un sueño sobreviva solo (la emoción y la pesadilla que te despierta), por qué las personas que recuerdan sus sueños se despiertan más veces en la noche sin saberlo, el diario de sueños, la intención antes de dormir y el teléfono como enemigo, la hipótesis de que olvidar es útil para no llenar la memoria de ficción, la prueba del laboratorio, qué cambia con la edad, el sueño que vuelve con un disparador y el método completo en tres pasos para recordar dos o tres sueños por semana.\n\n🎙️ Videos nuevos cada semana: ciencia y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 Anoche soñaste seis veces\n0:32 El sueño sí está ahí\n0:56 Soñar y guardar son dos trabajos\n1:20 El hipocampo está ocupado\n1:46 La química del olvido\n2:12 Despertar brusco vs. gradual\n2:38 La ventana de cinco minutos\n3:05 La emoción marca el recuerdo\n3:30 Los que sí recuerdan\n3:56 Los microdespertares\n4:22 El diario de sueños\n4:47 La intención antes de dormir\n5:11 El teléfono, enemigo del sueño\n5:40 Por qué las pesadillas se recuerdan\n6:02 ¿Y si olvidar fuera útil?\n6:31 La prueba del laboratorio\n6:57 Con la edad, menos recuerdo\n7:25 El sueño que vuelve\n7:57 El método en tres pasos\n8:30 Lo que nadie sabe todavía\n8:59 Esta noche, probalo\n\n#Sueños #Cerebro #Dormir #Memoria #Ciencia\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real (mediana |Δ| = 0,0 s). Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep023.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "por qué olvidamos los sueños",
+        "por qué no recuerdo mis sueños",
+        "olvidar los sueños al despertar",
+        "diario de sueños",
+        "cómo recordar los sueños",
+        "sueños",
+        "fase rem",
+        "memoria al dormir",
+        "hipocampo y sueños",
+        "por qué soñamos",
+        "sueños lúcidos",
+        "cerebro al dormir"
       ],
       "privacidad": "public"
     }
