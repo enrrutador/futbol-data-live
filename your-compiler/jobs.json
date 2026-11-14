@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-13",
   "jobs": [
     {
       "id": "ep002",
@@ -285,6 +285,28 @@
         "estrés y canas",
         "por qué las canas salen en las sienes",
         "pelo gris plateado",
+        "ciencia explicada",
+        "cómo funciona"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep021",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1135379352672910/6xqwi6j82wo97j1wtxfw23lk/ep021_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1745038604292005/3e3apgn6rs59hot7s3ghcdxd/thumbnail.png",
+      "titulo": "¿Por qué soñamos? Esto hace tu cerebro mientras duermes",
+      "descripcion": "Cada noche, tu cerebro pasa dos horas dentro de películas que nadie escribió: los sueños. En este video vas a entender por qué soñamos: qué hace el cerebro mientras dormís, por qué tu cuerpo queda paralizado en la fase REM, por qué los bebés sueñan mucho más que los adultos, cómo el cerebro convierte los recuerdos del día en memoria permanente, por qué olvidamos casi todos los sueños a los cinco minutos de despertar y qué dice la ciencia sobre su función: memoria, emociones y ensayo de peligros. Y el final, la pregunta que nadie puede responder todavía: ¿para qué soñamos, exactamente?\n\n🎙️ Ciencia y curiosidades de todos los días, explicadas en simple. ¡Suscribite!\n\nCAPÍTULOS:\n0:00 — ¿Por qué soñamos?\n0:51 — Tu cerebro no se apaga al dormir\n1:41 — Los bebés sueñan mucho más\n3:05 — Una película sin guion ni director\n4:24 — ¿Para qué sirven los sueños?\n5:51 — ¿Por qué olvidamos los sueños?\n6:43 — El dato final: soñamos en color\n8:05 — Lo que la ciencia todavía no sabe\n8:34 — Las grandes teorías\n\n#Sueños #Cerebro #Dormir #Ciencia #Curiosidades\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep021.md); los diagramas son creaciones a medida. Primer episodio del nuevo formato largo (clúster sueños y cerebro). Perfil de video web para largos: 720p, 2 pasadas ABR 540k + AAC 96k (ver hidden_files/perfil-largos.md).",
+      "tags": [
+        "por qué soñamos",
+        "qué son los sueños",
+        "fase REM",
+        "por qué olvidamos los sueños",
+        "sueños y cerebro",
+        "ciencia del sueño",
+        "dormir bien",
+        "sueños lúcidos",
+        "qué pasa cuando dormimos",
+        "curiosidades del cerebro",
         "ciencia explicada",
         "cómo funciona"
       ],
