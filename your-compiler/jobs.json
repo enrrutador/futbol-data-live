@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "jobs": [
     {
       "id": "ep002",
@@ -375,6 +375,28 @@
         "sueños y cerebro",
         "ciencia del sueño",
         "narcolepsia"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep024",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1007281105076052/pdwtvhv1rsewy5ip74090ote/ep024_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1373498659187792/5zepc522hnpbb3f2xnnlhr8j/thumbnail.png",
+      "titulo": "Sueños lúcidos: ¿puedes controlar lo que sueñas?",
+      "descripcion": "Estás soñando, te das cuenta de que estás soñando… y decides volar. El sueño lúcido es real, se midió en laboratorios y se puede entrenar.\n\nEn este video —el cuarto de la serie SUEÑOS Y CEREBRO— vas a ver qué es un sueño lúcido, qué tan común es, cómo lo comprobó Stephen LaBerge en 1980 con señales de los ojos en plena fase REM, qué se enciende en el cerebro cuando ocurre, las pruebas de realidad para descubrir que estás soñando, el diario de sueños, las técnicas MILD y WBTB con evidencia, la vía difícil de entrar directo, qué se puede hacer dentro del sueño, si practicar en el sueño mejora de verdad, los límites del control, los falsos despertares, los riesgos y para quién no conviene, y el método en tres pasos para intentarlo esta misma noche.\n\n🎙️ Videos nuevos cada semana: ciencia y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 Estás soñando, y lo sabes\n0:29 Qué es un sueño lúcido\n0:56 Qué tan común es\n1:17 La prueba del laboratorio\n1:50 Qué se enciende en el cerebro\n2:14 Las pruebas de realidad\n2:41 El diario de sueños\n3:07 Técnica MILD: la intención antes de dormir\n3:35 Técnica WBTB: despertar y volver\n4:04 WILD: entrar directo, la vía difícil\n4:32 Qué se puede hacer dentro del sueño\n4:57 Practicar en el sueño, ¿funciona?\n5:26 Los límites del control\n5:53 Falsos despertares: el bucle\n6:21 Riesgos: cuándo no conviene\n6:55 Para quién funciona y para quién no\n7:18 La industria de los atajos\n7:47 El cuerpo sigue dormido\n8:11 Qué dice la ciencia hoy\n8:42 El plan para esta noche\n9:14 Esta noche, soñando despierto\n\n#Sueños #SueñosLucidos #Cerebro #Dormir #Ciencia\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real (mediana |Δ| = 0,0 s). Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep024.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "sueños lúcidos",
+        "cómo tener un sueño lúcido",
+        "qué es un sueño lúcido",
+        "controlar los sueños",
+        "sueño lúcido técnicas",
+        "MILD",
+        "WBTB",
+        "pruebas de realidad",
+        "diario de sueños",
+        "fase REM",
+        "LaBerge",
+        "falsos despertares"
       ],
       "privacidad": "public"
     }
