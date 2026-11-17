@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "jobs": [
     {
       "id": "ep002",
@@ -397,6 +397,28 @@
         "fase REM",
         "LaBerge",
         "falsos despertares"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep025",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1172298325448822/wfjpbl8dn5pb8wo9dgx2uxpa/ep025_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/2369488050535754/6d9kfr5sae9mdvc24mbnkj07/thumbnail.png",
+      "titulo": "¿Qué le pasa a tu cerebro cuando no dormís?",
+      "descripcion": "Son las tres de la mañana, tu cerebro ya no responde y el café ya no hace nada. Dormir poco no es solo estar cansado: es como sacarle piezas a una máquina mientras sigue andando.\n\nEn este video —el quinto de la serie SUEÑOS Y CEREBRO— vas a ver qué hace el sueño por el cerebro, la adenosina y la presión de sueño, la noche en vela hora por hora, cómo se rompen la atención y la memoria, el experimento de Randy Gardner y sus once días sin dormir, los microsueños y su peligro al volante, el sistema glinfático que limpia el cerebro de noche, por qué las emociones quedan sin freno, el sistema inmune, el metabolismo y el hambre, los riesgos a largo plazo, el mito de recuperar el sueño el fin de semana, la siesta y el café como parches, cuánto hay que dormir y el método para dormir mejor.\n\n🎙️ Videos nuevos cada semana: ciencia y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:02 Las tres de la mañana\n0:26 El sueño es mantenimiento\n0:47 Adenosina: la deuda que se acumula\n1:10 La noche en vela, hora por hora\n1:33 Atención y memoria: el cerebro lento\n1:56 El experimento de Randy Gardner\n2:25 Microsueños: apagones de segundos\n2:50 El sistema glinfático: la limpieza nocturna\n3:17 Emociones sin freno\n3:43 El sistema inmune: dormir poco te enferma\n4:08 El metabolismo y el hambre\n4:34 El riesgo a largo plazo\n5:03 El mito de recuperar el sueño\n5:30 La siesta: el parche que sí funciona\n5:58 El café: el parche que engaña\n6:27 ¿Cuánto hay que dormir?\n6:55 El método para dormir mejor\n7:26 Dormir poco vs. no dormir: la escala\n7:54 Qué dice la ciencia hoy\n8:25 El plan para esta noche\n8:53 Esta noche, tu cerebro te lo va a agradecer\n\n#Sueños #Dormir #Cerebro #Salud #Ciencia\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real (mediana |Δ| = 0,0 s). Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep025.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "qué pasa si no duermo",
+        "no dormir consecuencias",
+        "cerebro sin dormir",
+        "privación del sueño",
+        "adenosina",
+        "microsueños",
+        "sistema glinfático",
+        "dormir poco",
+        "cuánto hay que dormir",
+        "cómo dormir mejor",
+        "siesta",
+        "falta de sueño"
       ],
       "privacidad": "public"
     }
