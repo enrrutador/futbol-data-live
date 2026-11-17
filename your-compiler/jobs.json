@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-16",
+  "actualizado": "2026-11-17",
   "jobs": [
     {
       "id": "ep002",
@@ -419,6 +419,28 @@
         "cómo dormir mejor",
         "siesta",
         "falta de sueño"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep026",
+      "videoUrl": "https://muse.ai/files/1317818514749241/3870826659735593/uiia6ufh0meg8o5ymt02zyt7/ep026_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1177416531384300/51oxoyr1x03o59f2vz1ei85n/thumbnail.png",
+      "titulo": "Déjà vu: el «error» del cerebro que te hace sentir que ya lo viviste",
+      "descripcion": "Entrás a un café en una ciudad donde nunca estuviste, y de golpe jurás que ya viviste ese momento exacto. Esa sensación tiene nombre, dura unos segundos y le pasa a casi todo el mundo.\n\nEn este video —el sexto de la serie SUEÑOS Y CEREBRO— vas a ver qué es el déjà vu, cuán común es, la sensación de familiaridad sin recuerdo, los dos sistemas de la memoria, la teoría del desajuste, la idea del procesamiento en dos tiempos, la teoría del parecido, los desencadenantes (viajes, cansancio, estrés), el experimento de O'Connor en laboratorio, el lóbulo temporal y la epilepsia, el caso del déjà vu permanente, los primos (déjà vécu, jamais vu, presque vu), por qué es más común de joven, qué dice la ciencia sobre las otras vidas, cuándo preocuparse y el truco para desarmar la sensación.\n\n🎙️ Videos nuevos cada semana: ciencia y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:02 El café donde nunca estuviste\n0:30 Qué es: «ya visto»\n0:59 Cuán común es\n1:27 La sensación por dentro\n1:54 Dos sistemas de memoria\n2:21 La teoría del desajuste\n2:47 La idea del retraso\n3:15 La teoría del parecido\n3:41 Cuándo te pasa más\n4:11 El experimento de laboratorio\n4:37 El lóbulo temporal\n5:05 El caso del déjà vu permanente\n5:34 Los primos: déjà vécu, jamais vu, presque vu\n6:02 Por qué de joven\n6:26 ¿Un recuerdo de otra vida?\n6:53 Cuándo preocuparse\n7:20 ¿Se puede provocar a propósito?\n7:47 Qué dice la ciencia hoy\n8:16 El truco para la próxima vez\n8:47 Resumen: un cruce de cables breve\n9:13 Cierre: tu cerebro haciendo su trabajo\n\n#Sueños #Cerebro #Memoria #Ciencia #DéjàVu\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real (mediana |Δ| = 0,0 s). Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep026.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "déjà vu",
+        "qué es el déjà vu",
+        "por qué tenemos déjà vu",
+        "familiaridad falsa",
+        "memoria y cerebro",
+        "lóbulo temporal",
+        "déjà vécu",
+        "jamais vu",
+        "cerebro y memoria",
+        "por qué pasa el déjà vu",
+        "ciencia del déjà vu",
+        "sueños y cerebro"
       ],
       "privacidad": "public"
     }
