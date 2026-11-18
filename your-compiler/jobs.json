@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "jobs": [
     {
       "id": "ep002",
@@ -462,6 +462,28 @@
         "por qué pasa el sonambulismo",
         "cerebro y sueño",
         "trastornos del sueño",
+        "sueños y cerebro"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep028",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1838385610532105/7yq80yonumitlgrowju1ut3k/ep028_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1143794368064774/s3wmvkku8t5ktu4mg9uz1we0/thumbnail.png",
+      "titulo": "¿Por qué soñamos que nos caemos? La sacudida que te despierta",
+      "descripcion": "Estás por quedarte dormido y de golpe sentís que caés: el cuerpo se sacude, el corazón late a mil y despertás sobresaltado. ¿Por qué pasa? ¿Es peligroso?\n\nEn este video —el octavo y último de la serie SUEÑOS Y CEREBRO— vas a ver qué es la sacudida hipnagógica, cuán común es, en qué momento del sueño ocurre, por qué el cerebro interpreta la relajación muscular como una caída, el papel del sistema vestibular, la hipótesis evolutiva del reflejo de agarre, qué se siente, qué la acompaña (destellos, ruidos, alucinaciones hipnagógicas), los desencadenantes (falta de sueño, estrés, cafeína, ejercicio de noche, horarios irregulares), cómo se distingue de otros movimientos nocturnos, cuándo conviene consultar a un médico, cómo reducirla, la rutina tranquila antes de dormir y los mitos.\n\n🎙️ Videos nuevos cada semana: ciencia y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:03 La caída justo antes de dormir\n0:30 Qué es: un espasmo al quedarse dormido\n0:55 Le pasa a casi todo el mundo\n1:17 El momento: la transición vigilia-sueño\n1:43 El cerebro confunde relajarse con caer\n2:05 El sistema vestibular se confunde\n2:28 Un reflejo heredado de los árboles\n2:53 Qué se siente: el espasmo y el susto\n3:20 No viene sola: destellos y ruidos\n3:45 Desencadenante 1: la falta de sueño\n4:08 Desencadenante 2: estrés y ansiedad\n4:29 Desencadenante 3: cafeína y estimulantes\n4:50 Desencadenante 4: ejercicio intenso de noche\n5:12 Desencadenante 5: horarios irregulares\n5:36 No es lo mismo: otros movimientos de la noche\n6:00 Cuándo consultar a un médico\n6:27 Cómo reducirla: cuatro cambios\n6:54 La rutina tranquila antes de dormir\n7:17 Los mitos: no es nada grave\n7:41 Resumen: una alarma demasiado sensible\n8:10 Cierre: así termina Sueños y Cerebro\n\n#Sueños #Cerebro #SacudidaHipnagógica #Dormir #Ciencia\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real (mediana |Δ| = 0,0 s). Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep028.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "sacudida hipnagógica",
+        "por qué soñamos que nos caemos",
+        "sensación de caer al dormir",
+        "mioclonía hipnagógica",
+        "sobresalto al dormir",
+        "por qué me despierto sobresaltado",
+        "sistema vestibular",
+        "transición vigilia sueño",
+        "alucinaciones hipnagógicas",
+        "trastornos del sueño",
+        "cerebro y sueño",
         "sueños y cerebro"
       ],
       "privacidad": "public"
