@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-24",
   "jobs": [
     {
       "id": "ep002",
@@ -485,6 +485,50 @@
         "trastornos del sueño",
         "cerebro y sueño",
         "sueños y cerebro"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep029",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1831304721441303/q8o3g0lwbueh990cjhw7o4wu/ep029_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1682969320161897/ub0ltvmwe4vfd9ss9v2wt9rp/thumbnail.png",
+      "titulo": "Tu cerebro borró tus primeros recuerdos",
+      "descripcion": "¿Cuál es tu recuerdo más viejo? Casi todo el mundo contesta lo mismo: algo de los tres o cuatro años. Pero viviste tres años enteros antes de eso. ¿Dónde quedó todo eso?\n\nEn este video —el primero de la serie CEREBRO Y MEMORIA— vas a ver qué es la amnesia infantil, que el bebé sí tenía memoria pero de otro tipo, el hipocampo en desarrollo y la neurogénesis que borra lo viejo, el papel del lenguaje y del «yo» que aparece con el espejo, la diferencia entre memoria implícita y explícita, lo que el cuerpo guarda aunque la historia no, por qué los primeros recuerdos llegan a los tres o cuatro años, cómo los recuerdos se reescriben cada vez que se cuentan, los recuerdos prestados de fotos y relatos familiares, los experimentos que midieron el fenómeno, cómo la forma de hablar de los padres moldea los recuerdos, si se puede recuperar algo de bebé, los mitos y lo que sí queda para siempre.\n\n🎙️ Videos nuevos cada semana: ciencia y tecnología explicadas en simple. ¡Suscríbete!\n\nCAPÍTULOS:\n0:03 Tu recuerdo más viejo\n0:25 Qué es la amnesia infantil\n0:45 El bebé sí recordaba\n1:11 El hipocampo en obra\n1:35 Las neuronas nuevas borran lo viejo\n2:04 Sin palabras no hay historia\n2:29 El «yo» que recuerda\n2:52 Dos memorias, dos sistemas\n3:22 El cuerpo guarda lo que la memoria no\n3:48 Por qué los primeros recuerdos son de los 3 o 4 años\n4:14 Qué recuerdan los chicos de 3 o 4 años\n4:38 Los recuerdos se reescriben cada vez\n5:02 Los recuerdos prestados\n5:30 Cómo se comprobó: el experimento\n5:55 Cómo hablan los padres moldea el recuerdo\n6:21 ¿Se puede recuperar algo de bebé?\n6:46 Los mitos: no es trauma ni vacío\n7:14 Lo que sí queda para siempre\n7:39 Qué hacer con los recuerdos de infancia\n8:02 Resumen: el archivo llegó tarde\n8:28 Cierre: y el cerebro también inventa recuerdos\n\n#AmnesiaInfantil #Memoria #Cerebro #Infancia #Ciencia\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real (mediana |Δ| = 0,0 s). Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-ep029.md); el resto son visuales creadas a medida para cada beat. Primer episodio del nuevo clúster CEREBRO Y MEMORIA. Perfil de video web para largos: 720p, 2 pasadas ABR 540k + AAC 96k (ver hidden_files/perfil-largos.md).",
+      "tags": [
+        "amnesia infantil",
+        "por qué no recuerdo mi infancia",
+        "primeros recuerdos infancia",
+        "hipocampo y memoria",
+        "memoria implícita explícita",
+        "recuerdos prestados",
+        "efecto Mandela",
+        "cerebro y memoria",
+        "memoria autobiográfica",
+        "por qué no recuerdo de bebé",
+        "infancia y cerebro",
+        "recuerdos de infancia"
+      ],
+      "privacidad": "public"
+    },
+    {
+      "id": "ep029s",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1126012983574079/8ij037vzsx5tvn93s6bsmz12/ep029_short.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1682969320161897/ub0ltvmwe4vfd9ss9v2wt9rp/thumbnail.png",
+      "titulo": "Tu cerebro borró tus primeros 3 años de vida #Shorts",
+      "descripcion": "¿Cuál es tu recuerdo más viejo? Tu cerebro borró tus primeros años para poder crecer. La explicación completa está en el video largo del canal: «Tu cerebro borró tus primeros recuerdos». ¡Suscríbete!",
+      "tags": [
+        "amnesia infantil",
+        "por qué no recuerdo mi infancia",
+        "primeros recuerdos infancia",
+        "hipocampo y memoria",
+        "memoria implícita explícita",
+        "recuerdos prestados",
+        "efecto Mandela",
+        "cerebro y memoria",
+        "memoria autobiográfica",
+        "por qué no recuerdo de bebé",
+        "infancia y cerebro",
+        "recuerdos de infancia"
       ],
       "privacidad": "public"
     }
