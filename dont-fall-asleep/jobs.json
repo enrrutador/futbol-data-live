@@ -1,1 +1,82 @@
-{"actualizado":"2026-11-02","jobs":[{"descripcion":"Video de prueba del cargador automático del canal. No listado; borrar desde Studio.","id":"prueba-canal2-001","privacidad":"unlisted","tags":["prueba"],"titulo":"PRUEBA - Historias y suspenso (borrar)","videoUrl":"https://muse.ai/files/1317818514749241/4074214912882705/aqjzaimeinhdl1slj3yxbms5/prueba-canal2.mp4"}],"version":1}
+{
+  "actualizado": "2026-11-28",
+  "jobs": [
+    {
+      "descripcion": "Video de prueba del cargador automático del canal. No listado; borrar desde Studio.",
+      "id": "prueba-canal2-001",
+      "privacidad": "unlisted",
+      "tags": [
+        "prueba"
+      ],
+      "titulo": "PRUEBA - Historias y suspenso (borrar)",
+      "videoUrl": "https://muse.ai/files/1317818514749241/4074214912882705/aqjzaimeinhdl1slj3yxbms5/prueba-canal2.mp4"
+    },
+    {
+      "id": "df-001",
+      "videoUrl": "https://muse.ai/files/1317818514749241/1636038954378840/uggcgqorgfxptbrhemgjsl3a/df001_web.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1553881033235960/8wbfhn4nexx83ccgbhqrpsj3/thumbnail.png",
+      "titulo": "El truco para ganar dinero fácil que terminó en la estafa de 4.000 millones",
+      "descripcion": "En 2014, una mujer prometió la moneda que iba a matar a Bitcoin. Tres años después había juntado más de 4.000 millones de dólares de tres millones y medio de personas. Y después desapareció en un avión a Atenas.\n\nEn este video vas a ver quién era Ruja Ignatova, cómo se vendía OneCoin, el truco central (no había blockchain: las monedas vivían en una base de datos privada y el precio lo fijaba la empresa), los paquetes educativos con contenido copiado de Wikipedia, el show de Wembley en 2016, quiénes fueron las víctimas, las advertencias que nadie escuchó, la tienda Dealshaker, la huida de 2017, la caída de su hermano Konstantin, las condenas de Greenwood, Mark Scott e Irina Dilkinska, la lista de los diez más buscados del FBI con cinco millones de recompensa, el misterio de si Ruja está viva, y lo que empezó a devolverse en 2026.\n\n🎙️ Videos nuevos todos los días: historias reales de dinero, la estafa que parecía plata sin esfuerzo y el caso que sí funcionó. ¡Suscríbete!\n\nCAPÍTULOS:\n0:00 El truco para ganar dinero fácil\n0:34 Quién era Ruja Ignatova\n1:01 Nace OneCoin, la asesina de Bitcoin\n1:27 La máquina de ventas\n1:53 El truco: no había blockchain\n2:17 Los cursos copiados de Wikipedia\n2:41 Wembley 2016: el show\n3:06 Las víctimas\n3:34 Las advertencias que nadie escuchó\n4:05 Dealshaker: la tienda de mentira\n4:28 La huida: 25 de octubre de 2017\n4:56 El hermano toma el mando\n5:19 Konstantin cae en Los Ángeles\n5:46 Greenwood: el cerebro de las ventas\n6:16 El abogado que lavaba la plata\n6:45 Hasta la jefa de legales cayó\n7:11 La lista del FBI: cinco millones\n7:38 ¿Muerta o viva?\n8:06 ¿Dónde fue la plata?\n8:33 2026: devuelven migajas\n9:01 La lección\n\n#OneCoin #RujaIgnatova #Estafa #Criptomonedas #DineroFacil\n\n---\nSubtítulos en español quemados dentro del video, estilo Hormozi con resaltado palabra por palabra en amarillo, sincronizados desde la voz real. Voz generada por IA (TTS) — contenido original, guion propio. Metraje de stock: Pexels (créditos completos en CREDITOS-df-001.md); el resto son visuales creadas a medida para cada beat.",
+      "tags": [
+        "OneCoin",
+        "Ruja Ignatova",
+        "estafa OneCoin",
+        "criptomoneda falsa",
+        "criptoestafa",
+        "estafa piramidal",
+        "dinero fácil",
+        "FBI más buscados",
+        "Cryptoqueen",
+        "estafas de criptomonedas",
+        "Konstantin Ignatov",
+        "Greenwood OneCoin\n- **Categoría:** 28 (Ciencia y tecnología)"
+      ],
+      "privacidad": "unlisted"
+    },
+    {
+      "id": "df-001s",
+      "videoUrl": "https://muse.ai/files/1317818514749241/29268303789457049/ou4mverk9kjk15iqvkv56ndv/df001_short.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1553881033235960/8wbfhn4nexx83ccgbhqrpsj3/thumbnail.png",
+      "titulo": "El truco de dinero fácil que era una estafa #Shorts",
+      "descripcion": "OneCoin prometió ser la asesina de Bitcoin y juntó más de 4.000 millones de dólares de tres millones y medio de personas. Pero no tenía blockchain: las monedas vivían en una base de datos privada y el precio lo fijaba la empresa, a mano. El video completo está en el canal: «El truco para ganar dinero fácil que terminó en la estafa de 4.000 millones».\n\n#Shorts #OneCoin #RujaIgnatova #Estafa #Criptomonedas #DineroFacil",
+      "tags": [
+        "OneCoin",
+        "Ruja Ignatova",
+        "estafa OneCoin",
+        "criptomoneda falsa",
+        "criptoestafa",
+        "estafa piramidal",
+        "dinero fácil",
+        "FBI más buscados",
+        "Cryptoqueen",
+        "estafas de criptomonedas",
+        "Konstantin Ignatov",
+        "Greenwood OneCoin\n- **Categoría:** 28 (Ciencia y tecnología)"
+      ],
+      "privacidad": "unlisted"
+    },
+    {
+      "id": "df-001s2",
+      "videoUrl": "https://muse.ai/files/1317818514749241/2185485682094450/zxx3nzv8ozn03h7qzjcdmewt/df001_short2.mp4",
+      "thumbUrl": "https://muse.ai/files/1317818514749241/1553881033235960/8wbfhn4nexx83ccgbhqrpsj3/thumbnail.png",
+      "titulo": "Llenó Wembley vendiendo una moneda que no existía #Shorts",
+      "descripcion": "En junio de 2016, Ruja Ignatova llenó Wembley vendiendo OneCoin. Tres millones y medio de personas pusieron la plata… y la moneda no existía. El video completo está en el canal: «El truco para ganar dinero fácil que terminó en la estafa de 4.000 millones».\n\n#Shorts #OneCoin #RujaIgnatova #Estafa #Criptomonedas #DineroFacil",
+      "tags": [
+        "OneCoin",
+        "Ruja Ignatova",
+        "estafa OneCoin",
+        "criptomoneda falsa",
+        "criptoestafa",
+        "estafa piramidal",
+        "dinero fácil",
+        "FBI más buscados",
+        "Cryptoqueen",
+        "estafas de criptomonedas",
+        "Konstantin Ignatov",
+        "Greenwood OneCoin"
+      ],
+      "privacidad": "unlisted"
+    }
+  ],
+  "version": 1
+}
